@@ -13,7 +13,7 @@ class GeographyServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__.'/../database/migrations/' => database_path('migrations'),
-            __DIR__.'/../database/data/continents.json' => database_path('data/continents.json'),
+            __DIR__.'/../database/data/' => database_path('data'),
             __DIR__.'/../database/seeders/' => database_path('seeders'),
         ], 'laravel-geography');
     }
