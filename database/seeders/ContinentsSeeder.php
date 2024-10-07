@@ -25,7 +25,7 @@ class ContinentsSeeder extends Seeder
         $continentsMap = Continent::pluck('id', 'code')->toArray();
         $localesWithIds = array_map(function ($locale) use ($continentsMap) {
             return [
-                'continent_id' => $continentsMap[$locale['parent_code']],
+                'continent_id' => $continentsMap[$locale['continent_code']],
                 'name' => $locale['name'],
                 'alias' => $locale['alias'],
                 'abbr' => $locale['abbr'],

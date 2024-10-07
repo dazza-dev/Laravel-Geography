@@ -1,6 +1,6 @@
 [
   {
-    "parent_code": "af",
+    "continent_code": "af",
     "name": "Africa",
     "alias": null,
     "abbr": "af",
@@ -8,7 +8,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "an",
+    "continent_code": "an",
     "name": "Antártida",
     "alias": null,
     "abbr": "an",
@@ -16,7 +16,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "as",
+    "continent_code": "as",
     "name": "Asia",
     "alias": null,
     "abbr": "as",
@@ -24,7 +24,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "eu",
+    "continent_code": "eu",
     "name": "Europa",
     "alias": null,
     "abbr": "eu",
@@ -32,7 +32,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "na",
+    "continent_code": "na",
     "name": "America del Norte",
     "alias": null,
     "abbr": "na",
@@ -40,7 +40,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "sa",
+    "continent_code": "sa",
     "name": "America del Sur",
     "alias": null,
     "abbr": "sa",
@@ -48,7 +48,7 @@
     "locale": "es"
   },
   {
-    "parent_code": "oc",
+    "continent_code": "oc",
     "name": "Oceania",
     "alias": null,
     "abbr": "oc",
