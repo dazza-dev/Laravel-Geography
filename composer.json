@@ -1,0 +1,48 @@
+{
+  "name": "dazza-dev/laravel-geography",
+  "description": "Provide countries, states, and cities.",
+  "keywords": [ "continents", "countries", "cities", "regions" ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.4",
+    "laravel/framework": "^8.0|^9.0|^10.0|^11.0"
+  },
+  "require-dev": {
+    "larastan/larastan": "^2.0",
+    "laravel/pint": "^1.18",
+    "orchestra/testbench": "^8.27"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  },
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Andres Daza",
+      "email": "adaza90@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DazzaDev\\Geography\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "DazzaDev\\Geography\\Tests\\": "tests/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "DazzaDev\\Geography\\GeographyServiceProvider"
+      ],
+      "aliases": {
+        "Geography": "DazzaDev\\Geography\\Facades\\Geography"
+      }
+    }
+  }
+}
