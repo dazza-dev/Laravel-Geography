@@ -38,6 +38,12 @@ class CountriesSeeder extends Seeder
             ];
         }, $countries);
 
+        // Truncate Tables
+        $this->truncateTables();
+
+        // Insert Countries
+        Country::insert($countriesWithIds);
+
         // Map Countries Locales
         $countriesMap = Country::pluck('id', 'code')->toArray();
         $localesWithIds = array_map(function ($locale) use ($countriesMap) {
@@ -52,11 +58,7 @@ class CountriesSeeder extends Seeder
             ];
         }, $locales);
 
-        // Truncate Tables
-        $this->truncateTables();
-
-        // Insert Countries
-        Country::insert($countriesWithIds);
+        // Insert Countries Locales
         CountryLocale::insert($localesWithIds);
 
         $this->command->info('Countries data seeded successfully.');

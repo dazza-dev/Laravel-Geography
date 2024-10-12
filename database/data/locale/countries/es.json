@@ -1,20 +1,20 @@
 [
   {
     "country_code": "cm",
-    "name": "Cameroon",
+    "name": "Camerún",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Cameroon",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República de Camerún",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
     "country_code": "bj",
-    "name": "Benin",
+    "name": "Benín",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Benin ",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Benín",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
@@ -22,8 +22,8 @@
     "name": "Madagascar",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Madagascar ",
-    "currency_name": "Malagasy Ariary",
+    "full_name": "República de Madagascar",
+    "currency_name": "Ariary malgache",
     "locale": "es"
   },
   {
@@ -31,8 +31,8 @@
     "name": "Rwanda",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Rwanda",
-    "currency_name": "Rwanda Franc",
+    "full_name": "República de Ruanda",
+    "currency_name": "Franco ruandés",
     "locale": "es"
   },
   {
@@ -40,35 +40,35 @@
     "name": "Seychelles",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Seychelles",
-    "currency_name": "Seychelles Rupee",
+    "full_name": "República de Seychelles",
+    "currency_name": "Rupia de Seychelles",
     "locale": "es"
   },
   {
     "country_code": "ci",
-    "name": "Cote d\"lvoire",
+    "name": "Costa de Marfil",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Cote d\"ivoire",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Costa de Marfil",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
     "country_code": "eg",
-    "name": "Egypt",
+    "name": "Egipto",
     "alias": null,
     "abbr": null,
-    "full_name": "the Arab Republic of Egypt ",
-    "currency_name": "Egyptian Pound",
+    "full_name": "República Árabe de Egipto",
+    "currency_name": "Libra egipcia",
     "locale": "es"
   },
   {
     "country_code": "mu",
-    "name": "Mauritius",
+    "name": "Mauricio",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Mauritius",
-    "currency_name": "Mauritius Rupee",
+    "full_name": "República de Mauricio",
+    "currency_name": "Rupia de Mauricio",
     "locale": "es"
   },
   {
@@ -77,7 +77,7 @@
     "alias": null,
     "abbr": null,
     "full_name": "Burkina Faso",
-    "currency_name": "CFA Franc BCEAO",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
@@ -85,16 +85,16 @@
     "name": "Eritrea",
     "alias": null,
     "abbr": null,
-    "full_name": "the Commonwealth of Eritrea",
+    "full_name": "la Commonwealth de Eritrea",
     "currency_name": "Nakfa",
     "locale": "es"
   },
   {
     "country_code": "st",
-    "name": "Sao Tome and Principe",
+    "name": "Sao Tomé y Príncipe",
     "alias": null,
     "abbr": null,
-    "full_name": "the Democratic Republic Sao Tome and Principe",
+    "full_name": "República Democrática de Sao Tomé y Príncipe",
     "currency_name": "Dobra",
     "locale": "es"
   },
@@ -103,26 +103,26 @@
     "name": "Angola",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Angola",
+    "full_name": "República de Angola",
     "currency_name": "Kwanza",
     "locale": "es"
   },
   {
     "country_code": "ly",
-    "name": "Libyan Arab Jm",
+    "name": "Jamahiriya Árabe Libia",
     "alias": null,
     "abbr": null,
-    "full_name": "State of Libya",
-    "currency_name": "Libyan Dinar",
+    "full_name": "Estado de Libia",
+    "currency_name": "Dinar libio",
     "locale": "es"
   },
   {
     "country_code": "zw",
-    "name": "Zimbabwe",
+    "name": "Zimbabue",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Zimbabwe",
-    "currency_name": "Zimbabwe Dollar",
+    "full_name": "República de Zimbabue",
+    "currency_name": "Dólar zimbabuense",
     "locale": "es"
   },
   {
@@ -130,25 +130,25 @@
     "name": "Guinea",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Guinea",
-    "currency_name": "Guinea Franc",
+    "full_name": "República de Guinea",
+    "currency_name": "Franco guineano",
     "locale": "es"
   },
   {
     "country_code": "sl",
-    "name": "Sierra Leone",
+    "name": "Sierra Leona",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Sierra Leone",
+    "full_name": "República de Sierra Leona",
     "currency_name": "Leone",
     "locale": "es"
   },
   {
     "country_code": "re",
-    "name": "Reunion",
+    "name": "Reunión",
     "alias": null,
     "abbr": null,
-    "full_name": "Reunion Island",
+    "full_name": "Isla de Reunión",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -157,8 +157,8 @@
     "name": "Gabon",
     "alias": null,
     "abbr": null,
-    "full_name": "The Gabonese Republic",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República Gabonesa",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
@@ -166,8 +166,8 @@
     "name": "Ghana",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Ghana",
-    "currency_name": "Ghana Cedi",
+    "full_name": "República de Ghana",
+    "currency_name": "Cedi ghanés",
     "locale": "es"
   },
   {
@@ -175,8 +175,8 @@
     "name": "Tanzania",
     "alias": null,
     "abbr": null,
-    "full_name": "The United Republic of Tanzania",
-    "currency_name": "Tanzanian shilling",
+    "full_name": "República Unida de Tanzania",
+    "currency_name": "Chelín tanzano",
     "locale": "es"
   },
   {
@@ -184,8 +184,8 @@
     "name": "Mali",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Mali",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Mali",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
@@ -193,8 +193,8 @@
     "name": "Somalia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Somalia Democratic Republic",
-    "currency_name": "Somali Shilling",
+    "full_name": "República Democrática de Somalia",
+    "currency_name": "Chelín somalí",
     "locale": "es"
   },
   {
@@ -202,7 +202,7 @@
     "name": "Mauritania",
     "alias": null,
     "abbr": null,
-    "full_name": "The Islamic Republic of Mauritania",
+    "full_name": "República Islámica de Mauritania",
     "currency_name": "Ouguiya",
     "locale": "es"
   },
@@ -211,8 +211,8 @@
     "name": "Uganda",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Uganda",
-    "currency_name": "Uganda Shilling",
+    "full_name": "República de Uganda",
+    "currency_name": "Chelín ugandés",
     "locale": "es"
   },
   {
@@ -220,8 +220,8 @@
     "name": "Chad",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Chad",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República de Chad",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
@@ -229,17 +229,17 @@
     "name": "Mayotte",
     "alias": null,
     "abbr": null,
-    "full_name": "Territorial Collectivity of Mayotte",
+    "full_name": "Colectividad Territorial de Mayotte",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "km",
-    "name": "Comoros",
+    "name": "Comoras",
     "alias": null,
     "abbr": null,
-    "full_name": "Union of Comoros",
-    "currency_name": "Comoro Franc",
+    "full_name": "Unión de las Comoras",
+    "currency_name": "Franco comorense",
     "locale": "es"
   },
   {
@@ -247,7 +247,7 @@
     "name": "Botswana",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Botswana",
+    "full_name": "República de Botswana",
     "currency_name": "Pula",
     "locale": "es"
   },
@@ -256,53 +256,53 @@
     "name": "Senegal",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Senegal",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Senegal",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
     "country_code": "sz",
-    "name": "Swaziland",
+    "name": "Suazilandia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Swaziland",
+    "full_name": "Reino de Suazilandia",
     "currency_name": "Lilangeni",
     "locale": "es"
   },
   {
     "country_code": "gw",
-    "name": "Guinea Bissau",
+    "name": "Guinea-Bisáu",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Guinea-Bissau",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Guinea-Bisáu",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
     "country_code": "cd",
-    "name": "DR Congo",
+    "name": "República Democrática del Congo",
     "alias": null,
     "abbr": null,
-    "full_name": "Democratic Republic of the Congo",
-    "currency_name": "Congolese franc",
+    "full_name": "República Democrática del Congo",
+    "currency_name": "Franco congoleño",
     "locale": "es"
   },
   {
     "country_code": "cf",
-    "name": "Central African",
+    "name": "República Centroafricana",
     "alias": null,
     "abbr": null,
-    "full_name": "The Central African Republic",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República Centroafricana",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
     "country_code": "ls",
-    "name": "Lesotho",
+    "name": "Lesoto",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Lesotho",
-    "currency_name": "Lesotho loti",
+    "full_name": "Reino de Lesoto",
+    "currency_name": "Loti lesotense",
     "locale": "es"
   },
   {
@@ -310,16 +310,16 @@
     "name": "Congo",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of the Congo",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República del Congo",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
     "country_code": "za",
-    "name": "South Africa",
+    "name": "Sudáfrica",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of South Africa",
+    "full_name": "República de Sudáfrica",
     "currency_name": "Rand",
     "locale": "es"
   },
@@ -328,17 +328,17 @@
     "name": "Liberia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Liberia",
-    "currency_name": "Liberian Dollar",
+    "full_name": "República de Liberia",
+    "currency_name": "Dólar liberiano",
     "locale": "es"
   },
   {
     "country_code": "tn",
-    "name": "Tunisia",
+    "name": "Túnez",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Tunisia",
-    "currency_name": "Tunisian Dinar",
+    "full_name": "República de Túnez",
+    "currency_name": "Dinar tunecino",
     "locale": "es"
   },
   {
@@ -346,26 +346,26 @@
     "name": "Zambia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Zambia",
-    "currency_name": "Zambian Kwacha",
+    "full_name": "República de Zambia",
+    "currency_name": "Kwacha zambiano",
     "locale": "es"
   },
   {
     "country_code": "ne",
-    "name": "Niger",
+    "name": "Níger",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Niger",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Níger",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
     "country_code": "eh",
-    "name": "Western Sahara",
+    "name": "Sahara Occidental",
     "alias": null,
     "abbr": null,
-    "full_name": "the Sahrawi Arab Democratic Republic Western Sahara",
-    "currency_name": "Algerian dinar",
+    "full_name": "República Árabe Saharaui Democrática del Sahara Occidental",
+    "currency_name": "Dinar argelino",
     "locale": "es"
   },
   {
@@ -373,8 +373,8 @@
     "name": "Togo",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Togo",
-    "currency_name": "CFA Franc BCEAO",
+    "full_name": "República de Togo",
+    "currency_name": "Franco CFA BCEAO",
     "locale": "es"
   },
   {
@@ -382,8 +382,8 @@
     "name": "Namibia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Namibia",
-    "currency_name": "Namibian dollar",
+    "full_name": "República de Namibia",
+    "currency_name": "Dólar namibio",
     "locale": "es"
   },
   {
@@ -391,26 +391,26 @@
     "name": "Mozambique",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Mozambique",
-    "currency_name": "Mozambique Metical",
+    "full_name": "República de Mozambique",
+    "currency_name": "Metical mozambiqueño",
     "locale": "es"
   },
   {
     "country_code": "et",
-    "name": "Ethiopia",
+    "name": "Etiopía",
     "alias": null,
     "abbr": null,
-    "full_name": "The Federal Democratic Republic of Ethiopia",
-    "currency_name": "Ethiopian Birr",
+    "full_name": "República Democrática Federal de Etiopía",
+    "currency_name": "Birr etíope",
     "locale": "es"
   },
   {
     "country_code": "ma",
-    "name": "Morocco",
+    "name": "Marruecos",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Morocco",
-    "currency_name": "Moroccan Dirham",
+    "full_name": "Reino de Marruecos",
+    "currency_name": "Dirham marroquí",
     "locale": "es"
   },
   {
@@ -418,7 +418,7 @@
     "name": "Malawi",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Malawi",
+    "full_name": "República de Malawi",
     "currency_name": "Kwacha",
     "locale": "es"
   },
@@ -427,17 +427,17 @@
     "name": "Nigeria",
     "alias": null,
     "abbr": null,
-    "full_name": "Federal Republic of Nigeria",
+    "full_name": "República Federal de Nigeria",
     "currency_name": "Naira",
     "locale": "es"
   },
   {
     "country_code": "cv",
-    "name": "Cape Verde",
+    "name": "Cabo Verde",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Cape Verde",
-    "currency_name": "Cabo Verde Escudo",
+    "full_name": "República de Cabo Verde",
+    "currency_name": "Escudo de Cabo Verde",
     "locale": "es"
   },
   {
@@ -445,26 +445,26 @@
     "name": "Burundi",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Burundi",
-    "currency_name": "Burundi Franc",
+    "full_name": "República de Burundi",
+    "currency_name": "Franco burundés",
     "locale": "es"
   },
   {
     "country_code": "dz",
-    "name": "Algeria",
+    "name": "Argelia",
     "alias": null,
     "abbr": null,
-    "full_name": "People\"s Democratic Republic of Algeria",
-    "currency_name": "Algerian Dinar",
+    "full_name": "República Democrática Popular de Argelia",
+    "currency_name": "Dinar argelino",
     "locale": "es"
   },
   {
     "country_code": "dj",
-    "name": "Djibouti",
+    "name": "Yibuti",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Djibouti",
-    "currency_name": "Djibouti Franc",
+    "full_name": "República de Yibuti",
+    "currency_name": "Franco yibutiano",
     "locale": "es"
   },
   {
@@ -472,98 +472,98 @@
     "name": "Gambia",
     "alias": null,
     "abbr": null,
-    "full_name": "Islamic Republic of Gambia",
+    "full_name": "República Islámica de Gambia",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "gq",
-    "name": "Eq.Guinea",
+    "name": "Guinea Ecuatorial",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Equatorial Guinea",
-    "currency_name": "CFA Franc BEAC",
+    "full_name": "República de Guinea Ecuatorial",
+    "currency_name": "Franco CFA BEAC",
     "locale": "es"
   },
   {
     "country_code": "sd",
-    "name": "Sudan",
+    "name": "Sudán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Sudan",
-    "currency_name": "Sudanese Pound",
+    "full_name": "República de Sudán",
+    "currency_name": "Libra sudanesa",
     "locale": "es"
   },
   {
     "country_code": "ke",
-    "name": "Kenya",
+    "name": "Kenia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Kenya",
-    "currency_name": "Kenyan Shilling",
+    "full_name": "República de Kenia",
+    "currency_name": "Chelín keniano",
     "locale": "es"
   },
   {
     "country_code": "sg",
-    "name": "Singapore",
+    "name": "Singapur",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Singapore",
-    "currency_name": "Singapore Dollar",
+    "full_name": "República de Singapur",
+    "currency_name": "Dólar de Singapur",
     "locale": "es"
   },
   {
     "country_code": "kr",
-    "name": "Korea",
+    "name": "Corea",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Korea",
-    "currency_name": "South Korean won",
+    "full_name": "República de Corea",
+    "currency_name": "Won surcoreano",
     "locale": "es"
   },
   {
     "country_code": "sy",
-    "name": "Syrian",
+    "name": "Siria",
     "alias": null,
     "abbr": null,
-    "full_name": "The Syrian Arab Republic",
-    "currency_name": "Syrian Pound",
+    "full_name": "República Árabe Siria",
+    "currency_name": "Libra siria",
     "locale": "es"
   },
   {
     "country_code": "uz",
-    "name": "Uzbekstan",
+    "name": "Uzbekistán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Uzbekistan",
-    "currency_name": "Uzbekistan Sum",
+    "full_name": "República de Uzbekistán",
+    "currency_name": "Sum uzbeko",
     "locale": "es"
   },
   {
     "country_code": "bh",
-    "name": "Bahrian",
+    "name": "Bahrein",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Bahrain",
-    "currency_name": "Bahraini Dinar",
+    "full_name": "Reino de Bahrein",
+    "currency_name": "Dinar bahreiní",
     "locale": "es"
   },
   {
     "country_code": "jp",
-    "name": "Japan",
+    "name": "Japón",
     "alias": null,
     "abbr": null,
-    "full_name": "Japan",
+    "full_name": "Japón",
     "currency_name": "Yen",
     "locale": "es"
   },
   {
     "country_code": "jo",
-    "name": "Jordan",
+    "name": "Jordania",
     "alias": null,
     "abbr": null,
-    "full_name": "The Hashemite Kingdom of Jordan",
-    "currency_name": "Jordanian Dinar",
+    "full_name": "Reino Hachemita de Jordania",
+    "currency_name": "Dinar jordano",
     "locale": "es"
   },
   {
@@ -571,25 +571,25 @@
     "name": "Vietnam",
     "alias": null,
     "abbr": null,
-    "full_name": "Socialist Republic of Vietnam",
+    "full_name": "República Socialista de Vietnam",
     "currency_name": "Dong",
     "locale": "es"
   },
   {
     "country_code": "kg",
-    "name": "Kirghizia",
+    "name": "Kirguistán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kyrgyz Republic",
+    "full_name": "República de Kirguistán",
     "currency_name": "Som",
     "locale": "es"
   },
   {
     "country_code": "th",
-    "name": "Thailand",
+    "name": "Tailandia",
     "alias": null,
     "abbr": null,
-    "full_name": "Kingdom of Thailand",
+    "full_name": "Reino de Tailandia",
     "currency_name": "Baht",
     "locale": "es"
   },
@@ -598,17 +598,17 @@
     "name": "Sri Lanka",
     "alias": null,
     "abbr": null,
-    "full_name": "The Democratic Socialist Republic of Sri Lanka",
-    "currency_name": "Sri Lanka Rupee",
+    "full_name": "República Democrática Socialista de Sri Lanka",
+    "currency_name": "Rupia de Sri Lanka",
     "locale": "es"
   },
   {
     "country_code": "ae",
-    "name": "United Arab Emirates",
+    "name": "Emiratos Árabes Unidos",
     "alias": null,
     "abbr": null,
-    "full_name": "The United Arab Emirates",
-    "currency_name": "UAE Dirham",
+    "full_name": "Emiratos Árabes Unidos",
+    "currency_name": "Dirham de los EAU",
     "locale": "es"
   },
   {
@@ -616,16 +616,16 @@
     "name": "Laos",
     "alias": null,
     "abbr": null,
-    "full_name": "Lao People\"s Democratic Republic",
+    "full_name": "República Democrática Popular Lao",
     "currency_name": "Kip",
     "locale": "es"
   },
   {
     "country_code": "af",
-    "name": "Afghanistan",
+    "name": "Afganistán",
     "alias": null,
     "abbr": null,
-    "full_name": "the Islamic Republic of Afghanistan",
+    "full_name": "República Islámica de Afganistán",
     "currency_name": "Afghani",
     "locale": "es"
   },
@@ -635,34 +635,34 @@
     "alias": null,
     "abbr": null,
     "full_name": "Macau Macao",
-    "currency_name": "Macanese pataca",
+    "currency_name": "Pataca macanesa",
     "locale": "es"
   },
   {
     "country_code": "tj",
-    "name": "Tajikistan",
+    "name": "Tayikistán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Tajikistan",
+    "full_name": "República de Tayikistán",
     "currency_name": "Somoni",
     "locale": "es"
   },
   {
     "country_code": "kp",
-    "name": "Korea,DPR",
+    "name": "Corea, DPR",
     "alias": null,
     "abbr": null,
-    "full_name": "Democratic People\"s Republic of Korea",
-    "currency_name": "North Korean won",
+    "full_name": "República Popular Democrática de Corea",
+    "currency_name": "Won norcoreano",
     "locale": "es"
   },
   {
     "country_code": "ps",
-    "name": "Palestine",
+    "name": "Palestina",
     "alias": null,
     "abbr": null,
-    "full_name": "The State of Palestine",
-    "currency_name": "Israeli new shekel",
+    "full_name": " Estado de Palestina",
+    "currency_name": "Nuevo shekel israelí",
     "locale": "es"
   },
   {
@@ -671,25 +671,25 @@
     "alias": null,
     "abbr": null,
     "full_name": "Hong Kong",
-    "currency_name": "Hong Kong dollar",
+    "currency_name": "Dólar de Hong Kong",
     "locale": "es"
   },
   {
     "country_code": "iq",
-    "name": "Iraq",
+    "name": "Irak",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic Of Iraq",
-    "currency_name": "Iraqi Dinar",
+    "full_name": "República de Irak",
+    "currency_name": "Dinar iraquí",
     "locale": "es"
   },
   {
     "country_code": "lb",
-    "name": "Lebanon",
+    "name": "Líbano",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Lebanon",
-    "currency_name": "Lebanese Pound",
+    "full_name": "República del Líbano",
+    "currency_name": "Libra libanesa",
     "locale": "es"
   },
   {
@@ -697,25 +697,25 @@
     "name": "Kuwait",
     "alias": null,
     "abbr": null,
-    "full_name": "The State of Kuwait",
-    "currency_name": "Kuwaiti Dinar",
+    "full_name": " Estado de Kuwait",
+    "currency_name": "Dinar kuwaití",
     "locale": "es"
   },
   {
     "country_code": "bn",
-    "name": "Brunei",
+    "name": "Brunéi",
     "alias": null,
     "abbr": null,
-    "full_name": "Brunei Darussalam",
-    "currency_name": "Brunei Dollar",
+    "full_name": "Brunéi Darussalam",
+    "currency_name": "Dólar de Brunéi",
     "locale": "es"
   },
   {
     "country_code": "mv",
-    "name": "Maldives",
+    "name": "Maldivas",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Maldives",
+    "full_name": "República de Maldivas",
     "currency_name": "Rufiyaa",
     "locale": "es"
   },
@@ -724,7 +724,7 @@
     "name": "Indonesia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Indonesia",
+    "full_name": "República de Indonesia",
     "currency_name": "Rupiah",
     "locale": "es"
   },
@@ -733,8 +733,8 @@
     "name": "Israel",
     "alias": null,
     "abbr": null,
-    "full_name": "The State of Israel",
-    "currency_name": "New Israeli Sheqel",
+    "full_name": " Estado de Israel",
+    "currency_name": "Nuevo shequel israelí",
     "locale": "es"
   },
   {
@@ -748,11 +748,11 @@
   },
   {
     "country_code": "om",
-    "name": "Oman",
+    "name": "Omán",
     "alias": null,
     "abbr": null,
-    "full_name": "Sultanate of Oman",
-    "currency_name": "Rial Omani",
+    "full_name": "Sultanato de Omán",
+    "currency_name": "Rial omaní",
     "locale": "es"
   },
   {
@@ -760,35 +760,35 @@
     "name": "India",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of India",
-    "currency_name": "Indian Rupee",
+    "full_name": "República de India",
+    "currency_name": "Rupia india",
     "locale": "es"
   },
   {
     "country_code": "mm",
-    "name": "Myanmar",
+    "name": "Birmania",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic Of The Union Of Myanmar",
+    "full_name": "República de la Unión de Birmania",
     "currency_name": "Kyat",
     "locale": "es"
   },
   {
     "country_code": "my",
-    "name": "Malaysia",
+    "name": "Malasia",
     "alias": null,
     "abbr": null,
-    "full_name": "Malaysia",
-    "currency_name": "Malaysian Ringgit",
+    "full_name": "Malasia",
+    "currency_name": "Ringgit malayo",
     "locale": "es"
   },
   {
     "country_code": "tl",
-    "name": "East Timor",
+    "name": "Timor Oriental",
     "alias": null,
     "abbr": null,
-    "full_name": "Democratic Republic of East Timor",
-    "currency_name": "US Dollar",
+    "full_name": "República Democrática de Timor Oriental",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
@@ -796,71 +796,71 @@
     "name": "Yemen",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Yemen",
-    "currency_name": "Yemeni Rial",
+    "full_name": "República de Yemen",
+    "currency_name": "Rial yemení",
     "locale": "es"
   },
   {
     "country_code": "bt",
-    "name": "Bhutan",
+    "name": "Bután",
     "alias": null,
     "abbr": null,
-    "full_name": "Kingdom of Bhutan",
-    "currency_name": "Bhutanese ngultrum",
+    "full_name": "Reino de Bután",
+    "currency_name": "Ngultrum de Bután",
     "locale": "es"
   },
   {
     "country_code": "kh",
-    "name": "Cambodia",
+    "name": "Camboya",
     "alias": null,
     "abbr": null,
-    "full_name": "Kingdom of Cambodia",
+    "full_name": "Reino de Camboya",
     "currency_name": "Riel",
     "locale": "es"
   },
   {
     "country_code": "pk",
-    "name": "Pakistan",
+    "name": "Pakistán",
     "alias": null,
     "abbr": null,
-    "full_name": "the Islamic Republic of Pakistan",
-    "currency_name": "Pakistan Rupee",
+    "full_name": "República Islámica de Pakistán",
+    "currency_name": "Rupia paquistaní",
     "locale": "es"
   },
   {
     "country_code": "bd",
-    "name": "Bangladesh",
+    "name": "Bangladés",
     "alias": null,
     "abbr": null,
-    "full_name": "People\"s Republic of Bangladesh",
+    "full_name": "República Popular de Bangladés",
     "currency_name": "Taka",
     "locale": "es"
   },
   {
     "country_code": "sa",
-    "name": "Saudi Arabia",
+    "name": "Arabia Saudita",
     "alias": null,
     "abbr": null,
-    "full_name": "Kingdom of Saudi Arabia",
-    "currency_name": "Saudi Riyal",
+    "full_name": "Reino de Arabia Saudita",
+    "currency_name": "Riyal saudí",
     "locale": "es"
   },
   {
     "country_code": "tm",
-    "name": "Turkmenistan",
+    "name": "Turkmenistán",
     "alias": null,
     "abbr": null,
-    "full_name": "Turkmenistan",
-    "currency_name": "Turkmenistan New Manat",
+    "full_name": "Turkmenistán",
+    "currency_name": "Nuevo manat turkmeno",
     "locale": "es"
   },
   {
     "country_code": "qa",
-    "name": "Qatar",
+    "name": "Catar",
     "alias": null,
     "abbr": null,
-    "full_name": "The State of Qatar",
-    "currency_name": "Qatari Rial",
+    "full_name": " Estado de Catar",
+    "currency_name": "Rial catarí",
     "locale": "es"
   },
   {
@@ -868,35 +868,35 @@
     "name": "Nepal",
     "alias": null,
     "abbr": null,
-    "full_name": "Federal Democratic Republic of Nepal",
-    "currency_name": "Nepalese Rupee",
+    "full_name": "República Democrática Federal de Nepal",
+    "currency_name": "Rupia nepalí",
     "locale": "es"
   },
   {
     "country_code": "kz",
-    "name": "Kazakhstan",
+    "name": "Kazajistán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Kazakhstan",
+    "full_name": "República de Kazajistán",
     "currency_name": "Tenge",
     "locale": "es"
   },
   {
     "country_code": "ph",
-    "name": "Philippines",
+    "name": "Filipinas",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of the Philippines",
-    "currency_name": "Philippine Peso",
+    "full_name": "República de Filipinas",
+    "currency_name": "Peso filipino",
     "locale": "es"
   },
   {
     "country_code": "tw",
-    "name": "Taiwan",
+    "name": "Taiwán",
     "alias": null,
     "abbr": null,
-    "full_name": "Taiwan",
-    "currency_name": "New Taiwan dollar",
+    "full_name": "Taiwán",
+    "currency_name": "Nuevo dólar taiwanés",
     "locale": "es"
   },
   {
@@ -904,17 +904,17 @@
     "name": "China",
     "alias": null,
     "abbr": null,
-    "full_name": "People\"s Republic of China",
+    "full_name": "República Popular de China",
     "currency_name": "Yuan Renminbi",
     "locale": "es"
   },
   {
     "country_code": "ir",
-    "name": "Iran",
+    "name": "Irán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Islamic Republic of Iran",
-    "currency_name": "Iranian rial",
+    "full_name": "República Islámica de Irán",
+    "currency_name": "Rial iraní",
     "locale": "es"
   },
   {
@@ -922,8 +922,8 @@
     "name": "Costa Rica",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Costa Rica",
-    "currency_name": "Costa Rican Colon",
+    "full_name": "República de Costa Rica",
+    "currency_name": "Colón costarricense",
     "locale": "es"
   },
   {
@@ -931,26 +931,26 @@
     "name": "Cuba",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Cuba",
-    "currency_name": "Cuban convertible peso",
+    "full_name": "República de Cuba",
+    "currency_name": "Peso cubano convertible",
     "locale": "es"
   },
   {
     "country_code": "do",
-    "name": "Dominican",
+    "name": "República Dominicana",
     "alias": null,
     "abbr": null,
-    "full_name": "The Dominican Republic",
-    "currency_name": "Dominican Peso",
+    "full_name": "República Dominicana",
+    "currency_name": "Peso dominicano",
     "locale": "es"
   },
   {
     "country_code": "mx",
-    "name": "Mexico",
+    "name": "México",
     "alias": null,
     "abbr": null,
-    "full_name": "The United States of Mexico",
-    "currency_name": "Mexican Peso",
+    "full_name": "Estados Unidos de México",
+    "currency_name": "Peso Mexicano",
     "locale": "es"
   },
   {
@@ -958,25 +958,25 @@
     "name": "Nicaragua",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Nicaragua",
-    "currency_name": "Cordoba Oro",
+    "full_name": "República de Nicaragua",
+    "currency_name": "Córdoba Oro",
     "locale": "es"
   },
   {
     "country_code": "pa",
-    "name": "Panama",
+    "name": "Panamá",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Panama",
-    "currency_name": "Panamanian balboa",
+    "full_name": "República de Panamá",
+    "currency_name": "Balboa Panameño",
     "locale": "es"
   },
   {
     "country_code": "an",
-    "name": "Netherlands Antilles",
+    "name": "Antillas Neerlandesas",
     "alias": null,
     "abbr": null,
-    "full_name": "Netherlands Antilles",
+    "full_name": "Antillas Neerlandesas",
     "currency_name": null,
     "locale": "es"
   },
@@ -985,8 +985,8 @@
     "name": "El Salvador",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of El Salvador",
-    "currency_name": "Salvadoran col\u00f3n",
+    "full_name": "República de El Salvador",
+    "currency_name": "Colón Salvadoreño",
     "locale": "es"
   },
   {
@@ -994,17 +994,17 @@
     "name": "Puerto Rico",
     "alias": null,
     "abbr": null,
-    "full_name": "The Commonwealth of Puerto Rico",
-    "currency_name": "US Dollar",
+    "full_name": " Estado Libre Asociado de Puerto Rico",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "vc",
-    "name": "Saint Vincent and the Grenadines",
+    "name": "San Vicente y las Granadinas",
     "alias": null,
     "abbr": null,
-    "full_name": "Saint Vincent and the Grenadines",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "San Vicente y las Granadinas",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
@@ -1012,7 +1012,7 @@
     "name": "Honduras",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Honduras",
+    "full_name": "República de Honduras",
     "currency_name": "Lempira",
     "locale": "es"
   },
@@ -1021,7 +1021,7 @@
     "name": "Guatemala",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Guatemala",
+    "full_name": "República de Guatemala",
     "currency_name": "Quetzal",
     "locale": "es"
   },
@@ -1039,62 +1039,62 @@
     "name": "Armenia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Armenia",
-    "currency_name": "Armenian Dram",
+    "full_name": "República de Armenia",
+    "currency_name": "Dram Armenio",
     "locale": "es"
   },
   {
     "country_code": "az",
-    "name": "Azerbaijan",
+    "name": "Azerbaiyán",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Azerbaijan",
-    "currency_name": "Azerbaijanian Manat",
+    "full_name": "República de Azerbaiyán",
+    "currency_name": "Manat Azerbaiyano",
     "locale": "es"
   },
   {
     "country_code": "by",
-    "name": "Belarus",
+    "name": "Bielorrusia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Belarus",
-    "currency_name": "Belarussian Ruble",
+    "full_name": "República de Bielorrusia",
+    "currency_name": "Rublo Bielo Ruso",
     "locale": "es"
   },
   {
     "country_code": "ru",
-    "name": "Russia",
+    "name": "Rusia",
     "alias": null,
     "abbr": null,
-    "full_name": "Russian Federation",
-    "currency_name": "Russian Ruble",
+    "full_name": "Federación Rusa",
+    "currency_name": "Rublo Ruso",
     "locale": "es"
   },
   {
     "country_code": "ua",
-    "name": "Ukraine",
+    "name": "Ucrania",
     "alias": null,
     "abbr": null,
-    "full_name": "Ukraine",
-    "currency_name": "Hryvnia",
+    "full_name": "Ucrania",
+    "currency_name": "Grivna",
     "locale": "es"
   },
   {
     "country_code": "hu",
-    "name": "Hungary",
+    "name": "Hungría",
     "alias": null,
     "abbr": null,
-    "full_name": "Hungary",
+    "full_name": "Hungría",
     "currency_name": "Forint",
     "locale": "es"
   },
   {
     "country_code": "is",
-    "name": "Iceland",
+    "name": "Islandia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Iceland",
-    "currency_name": "Iceland Krona",
+    "full_name": "República de Islandia",
+    "currency_name": "Corona islandesa",
     "locale": "es"
   },
   {
@@ -1102,35 +1102,35 @@
     "name": "Malta",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Malta",
+    "full_name": "República de Malta",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "mc",
-    "name": "Monaco",
+    "name": "Mónaco",
     "alias": null,
     "abbr": null,
-    "full_name": "The Principality of Monaco",
+    "full_name": " Principado de Mónaco",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "no",
-    "name": "Norway",
+    "name": "Noruega",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Norway",
-    "currency_name": "Norwegian Krone",
+    "full_name": "Reino de Noruega",
+    "currency_name": "Corona noruega",
     "locale": "es"
   },
   {
     "country_code": "ro",
-    "name": "Romania",
+    "name": "Rumania",
     "alias": null,
     "abbr": null,
-    "full_name": "Romania",
-    "currency_name": "New Romanian Leu",
+    "full_name": "Rumania",
+    "currency_name": "Nuevo leu rumano",
     "locale": "es"
   },
   {
@@ -1138,26 +1138,26 @@
     "name": "San Marino",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of San Marino",
+    "full_name": "República de San Marino",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "se",
-    "name": "Sweden",
+    "name": "Suecia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Sweden",
-    "currency_name": "Swedish Krona",
+    "full_name": "Reino de Suecia",
+    "currency_name": "Corona sueca",
     "locale": "es"
   },
   {
     "country_code": "ch",
-    "name": "Switzerland",
+    "name": "Suiza",
     "alias": null,
     "abbr": null,
-    "full_name": "Swiss Confederation",
-    "currency_name": "WIR Euro (complementary currency)",
+    "full_name": "Confederación Suiza",
+    "currency_name": "Euro WIR (moneda complementaria)",
     "locale": "es"
   },
   {
@@ -1165,25 +1165,25 @@
     "name": "Estonia",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Estonia",
+    "full_name": "República de Estonia",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "lv",
-    "name": "Latvia",
+    "name": "Letonia",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Latvia",
+    "full_name": "República de Letonia",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "lt",
-    "name": "Lithuania",
+    "name": "Lituania",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Lithuania",
+    "full_name": "República de Lituania",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1192,43 +1192,43 @@
     "name": "Moldavia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Moldova",
-    "currency_name": "Moldovan leu",
+    "full_name": "República de Moldavia",
+    "currency_name": "Leu moldavo",
     "locale": "es"
   },
   {
     "country_code": "tr",
-    "name": "Turkey",
+    "name": "Turquía",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Turkey",
-    "currency_name": "Turkish Lira",
+    "full_name": "República de Turquía",
+    "currency_name": "Lira turca",
     "locale": "es"
   },
   {
     "country_code": "si",
-    "name": "Slovenia",
+    "name": "Eslovenia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Slovenia",
+    "full_name": "República de Eslovenia",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "cz",
-    "name": "Czech",
+    "name": "Chequia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Czech Republic",
-    "currency_name": "Czech Koruna",
+    "full_name": "República Checa",
+    "currency_name": "Corona checa",
     "locale": "es"
   },
   {
     "country_code": "sk",
-    "name": "Slovak",
+    "name": "Eslovaco",
     "alias": null,
     "abbr": null,
-    "full_name": "The Slovak Republic",
+    "full_name": "República Eslovaca",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1237,133 +1237,133 @@
     "name": "Macedonia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Macedonia",
-    "currency_name": "Macedonian denar",
+    "full_name": "República de Macedonia",
+    "currency_name": "Denar macedonio",
     "locale": "es"
   },
   {
     "country_code": "ba",
-    "name": "Bosnia Hercegovina",
+    "name": "Bosnia y Herzegovina",
     "alias": null,
     "abbr": null,
-    "full_name": "Bosnia and Herzegovina",
-    "currency_name": "Convertible Mark",
+    "full_name": "Bosnia y Herzegovina",
+    "currency_name": "Marco convertible",
     "locale": "es"
   },
   {
     "country_code": "va",
-    "name": "Vatican City State",
+    "name": "Estado de la Ciudad del Vaticano",
     "alias": null,
     "abbr": null,
-    "full_name": "Vatican City State",
+    "full_name": "Estado de la Ciudad del Vaticano",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "nl",
-    "name": "Netherlands",
+    "name": "Países Bajos",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Netherlands",
+    "full_name": "Reino de los Países Bajos",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "hr",
-    "name": "Croatia",
+    "name": "Croacia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Croatia",
-    "currency_name": "Croatian Kuna",
+    "full_name": "República de Croacia",
+    "currency_name": "Kuna croata",
     "locale": "es"
   },
   {
     "country_code": "gr",
-    "name": "Greece",
+    "name": "Grecia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Hellenic Republic",
+    "full_name": "República Helénica",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "ie",
-    "name": "Ireland",
+    "name": "Irlanda",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Ireland",
+    "full_name": "República de Irlanda",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "be",
-    "name": "Belgium",
+    "name": "Bélgica",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom Of Belgium",
+    "full_name": "Reino de Bélgica",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "cy",
-    "name": "Cyprus",
+    "name": "Chipre",
     "alias": null,
     "abbr": null,
-    "full_name": "the Republic of Cyprus",
+    "full_name": "República de Chipre",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "dk",
-    "name": "Denmark",
+    "name": "Dinamarca",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Denmark",
-    "currency_name": "Danish Krone",
+    "full_name": "Reino de Dinamarca",
+    "currency_name": "Corona danesa",
     "locale": "es"
   },
   {
     "country_code": "gb",
-    "name": "United Kingdom",
+    "name": "Reino Unido",
     "alias": null,
     "abbr": null,
-    "full_name": "The United Kingdom of Great Britain and Northern Ireland",
-    "currency_name": "Pound sterling",
+    "full_name": "Reino Unido de Gran Bretaña e Irlanda del Norte",
+    "currency_name": "Libra esterlina",
     "locale": "es"
   },
   {
     "country_code": "de",
-    "name": "Germany",
+    "name": "Alemania",
     "alias": null,
     "abbr": null,
-    "full_name": "The Federal Republic of Germany",
+    "full_name": "República Federal de Alemania",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "fr",
-    "name": "France",
+    "name": "Francia",
     "alias": null,
     "abbr": null,
-    "full_name": "The French Republic",
+    "full_name": "República Francesa",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "it",
-    "name": "Italy",
+    "name": "Italia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Italy",
+    "full_name": "República de Italia",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "lu",
-    "name": "Luxembourg",
+    "name": "Luxemburgo",
     "alias": null,
     "abbr": null,
-    "full_name": "The Grand Duchy of Luxembourg",
+    "full_name": " Gran Ducado de Luxemburgo",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1372,25 +1372,25 @@
     "name": "Portugal",
     "alias": null,
     "abbr": null,
-    "full_name": "Portugal,the Portuguese Republic",
+    "full_name": "Portugal, República Portuguesa",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "pl",
-    "name": "Poland",
+    "name": "Polonia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Poland",
+    "full_name": "República de Polonia",
     "currency_name": "Zloty",
     "locale": "es"
   },
   {
     "country_code": "es",
-    "name": "Spain",
+    "name": "España",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Spain",
+    "full_name": "Reino de España",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1399,7 +1399,7 @@
     "name": "Albania",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Albania",
+    "full_name": "República de Albania",
     "currency_name": "Lek",
     "locale": "es"
   },
@@ -1408,7 +1408,7 @@
     "name": "Andorra",
     "alias": null,
     "abbr": null,
-    "full_name": "The Principality of Andorra",
+    "full_name": " Principado de Andorra",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1417,17 +1417,17 @@
     "name": "Liechtenstein",
     "alias": null,
     "abbr": null,
-    "full_name": "Principality of Liechtenstein",
-    "currency_name": "Swiss Franc",
+    "full_name": "Principado de Liechtenstein",
+    "currency_name": "Franco suizo",
     "locale": "es"
   },
   {
     "country_code": "rs",
-    "name": "Serbia and Montenegro",
+    "name": "Serbia y Montenegro",
     "alias": null,
     "abbr": null,
-    "full_name": "Serbia and Montenegro",
-    "currency_name": "Serbian Dinar",
+    "full_name": "Serbia y Montenegro",
+    "currency_name": "Dinar serbio",
     "locale": "es"
   },
   {
@@ -1435,7 +1435,7 @@
     "name": "Austria",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic Of Austria",
+    "full_name": "República de Austria",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1444,16 +1444,16 @@
     "name": "Bulgaria",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Bulgaria",
-    "currency_name": "Bulgarian Lev",
+    "full_name": "República de Bulgaria",
+    "currency_name": "Lev búlgaro",
     "locale": "es"
   },
   {
     "country_code": "fi",
-    "name": "Finland",
+    "name": "Finlandia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Finland",
+    "full_name": "República de Finlandia",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1463,7 +1463,7 @@
     "alias": null,
     "abbr": null,
     "full_name": "Gibraltar",
-    "currency_name": "Gibraltar Pound",
+    "currency_name": "Libra de Gibraltar",
     "locale": "es"
   },
   {
@@ -1471,8 +1471,8 @@
     "name": "Dominica",
     "alias": null,
     "abbr": null,
-    "full_name": "The Commonwealth of Dominica",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "La Mancomunidad de Dominica",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
@@ -1481,34 +1481,34 @@
     "alias": null,
     "abbr": null,
     "full_name": "Bermuda",
-    "currency_name": "Bermudian Dollar",
+    "currency_name": "Dólar bermudeño",
     "locale": "es"
   },
   {
     "country_code": "ca",
-    "name": "Canada",
+    "name": "Canadá",
     "alias": null,
     "abbr": null,
-    "full_name": "Canada",
-    "currency_name": "Canadian Dollar",
+    "full_name": "Canadá",
+    "currency_name": "Dólar canadiense",
     "locale": "es"
   },
   {
     "country_code": "us",
-    "name": "United States",
+    "name": "Estados Unidos",
     "alias": null,
     "abbr": null,
-    "full_name": "The United States of America",
-    "currency_name": "United Dollar",
+    "full_name": "Estados Unidos de América",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "gl",
-    "name": "Greenland",
+    "name": "Groenlandia",
     "alias": null,
     "abbr": null,
-    "full_name": "Greenland",
-    "currency_name": "Danish Krone",
+    "full_name": "Groenlandia",
+    "currency_name": "Corona danesa",
     "locale": "es"
   },
   {
@@ -1516,8 +1516,8 @@
     "name": "Tonga",
     "alias": null,
     "abbr": null,
-    "full_name": "The Kingdom of Tonga",
-    "currency_name": "Pa\u2019anga",
+    "full_name": "Reino de Tonga",
+    "currency_name": "Paʻanga",
     "locale": "es"
   },
   {
@@ -1525,17 +1525,17 @@
     "name": "Australia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Commonwealth of Australia",
-    "currency_name": "Australian Dollar",
+    "full_name": "La Mancomunidad de Australia",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
     "country_code": "ck",
-    "name": "Cook Is",
+    "name": "Islas Cook",
     "alias": null,
     "abbr": null,
-    "full_name": "The Cook Islands",
-    "currency_name": "New Zealand Dollar",
+    "full_name": "Las Islas Cook",
+    "currency_name": "Dólar neozelandés",
     "locale": "es"
   },
   {
@@ -1543,17 +1543,17 @@
     "name": "Nauru",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Nauru",
-    "currency_name": "Australian Dollar",
+    "full_name": "República de Nauru",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
     "country_code": "nc",
-    "name": "New Caledonia",
+    "name": "Nueva Caledonia",
     "alias": null,
     "abbr": null,
-    "full_name": "New Caledonia",
-    "currency_name": "CFP Franc",
+    "full_name": "Nueva Caledonia",
+    "currency_name": "Franco CFP",
     "locale": "es"
   },
   {
@@ -1561,17 +1561,17 @@
     "name": "Vanuatu",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Vanuatu",
+    "full_name": "República de Vanuatu",
     "currency_name": "Vatu",
     "locale": "es"
   },
   {
     "country_code": "sb",
-    "name": "Solomon Is",
+    "name": "Islas Salomón",
     "alias": null,
     "abbr": null,
-    "full_name": "Solomon Islands",
-    "currency_name": "Solomon Islands Dollar",
+    "full_name": "Islas Salomón",
+    "currency_name": "Dólar de las Islas Salomón",
     "locale": "es"
   },
   {
@@ -1579,7 +1579,7 @@
     "name": "Samoa",
     "alias": null,
     "abbr": null,
-    "full_name": "The Independent State of Samoa",
+    "full_name": " Estado Independiente de Samoa",
     "currency_name": "Tala",
     "locale": "es"
   },
@@ -1589,7 +1589,7 @@
     "alias": null,
     "abbr": null,
     "full_name": "Tuvalu",
-    "currency_name": "Australian Dollar",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
@@ -1597,17 +1597,17 @@
     "name": "Micronesia",
     "alias": null,
     "abbr": null,
-    "full_name": "Federated States of Micronesia",
-    "currency_name": "US Dollar",
+    "full_name": "Estados Federados de Micronesia",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "mh",
-    "name": "Marshall Is Rep",
+    "name": "República de las Islas Marshall",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Marshall Island ",
-    "currency_name": "US Dollar",
+    "full_name": "República de las Islas Marshall",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
@@ -1615,53 +1615,53 @@
     "name": "Kiribati",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Kiribati",
-    "currency_name": "Australian Dollar",
+    "full_name": "República de Kiribati",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
     "country_code": "pf",
-    "name": "French Polynesia",
+    "name": "Polinesia Francesa",
     "alias": null,
     "abbr": null,
-    "full_name": "French Polynesia",
-    "currency_name": "CFP Franc",
+    "full_name": "Polinesia Francesa",
+    "currency_name": "Franco CFP",
     "locale": "es"
   },
   {
     "country_code": "nz",
-    "name": "New Zealand",
+    "name": "Nueva Zelanda",
     "alias": null,
     "abbr": null,
-    "full_name": "New Zealand",
-    "currency_name": "New Zealand Dollar",
+    "full_name": "Nueva Zelanda",
+    "currency_name": "Dólar Neozelandés",
     "locale": "es"
   },
   {
     "country_code": "fj",
-    "name": "Fiji",
+    "name": "Fiyi",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Fiji",
-    "currency_name": "Fiji Dollar",
+    "full_name": "República de Fiyi",
+    "currency_name": "Dólar Fiyiano",
     "locale": "es"
   },
   {
     "country_code": "pg",
-    "name": "Papua New Guinea",
+    "name": "Papúa Nueva Guinea",
     "alias": null,
     "abbr": null,
-    "full_name": "The Independent State of Papua New Guinea",
+    "full_name": " Estado Independiente de Papúa Nueva Guinea",
     "currency_name": "Kina",
     "locale": "es"
   },
   {
     "country_code": "pw",
-    "name": "Palau",
+    "name": "Palaos",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Palau",
-    "currency_name": "US Dollar",
+    "full_name": "República de Palaos",
+    "currency_name": "Dólar Estadounidense",
     "locale": "es"
   },
   {
@@ -1669,8 +1669,8 @@
     "name": "Chile",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Chile",
-    "currency_name": "Chilean Peso",
+    "full_name": "República de Chile",
+    "currency_name": "Peso Chileno",
     "locale": "es"
   },
   {
@@ -1678,8 +1678,8 @@
     "name": "Colombia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Colombia",
-    "currency_name": "Colombian Peso",
+    "full_name": "República de Colombia",
+    "currency_name": "Peso Colombiano",
     "locale": "es"
   },
   {
@@ -1687,8 +1687,8 @@
     "name": "Guyana",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Guyana",
-    "currency_name": "Guyana Dollar",
+    "full_name": "República de Guyana",
+    "currency_name": "Dólar Guayanés",
     "locale": "es"
   },
   {
@@ -1696,26 +1696,26 @@
     "name": "Paraguay",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Paraguay",
-    "currency_name": "Guarani",
+    "full_name": "República de Paraguay",
+    "currency_name": "Guaraní",
     "locale": "es"
   },
   {
     "country_code": "pe",
-    "name": "Peru",
+    "name": "Perú",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Peru",
+    "full_name": "República del Perú",
     "currency_name": "Nuevo Sol",
     "locale": "es"
   },
   {
     "country_code": "sr",
-    "name": "Suriname",
+    "name": "Surinam",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Suriname",
-    "currency_name": "Surinam Dollar",
+    "full_name": "República de Surinam",
+    "currency_name": "Dólar Surinamés",
     "locale": "es"
   },
   {
@@ -1723,8 +1723,8 @@
     "name": "Venezuela",
     "alias": null,
     "abbr": null,
-    "full_name": "Bolivarian Republic of Venezuela",
-    "currency_name": "Venezuelan bol\u00edvar",
+    "full_name": "República Bolivariana de Venezuela",
+    "currency_name": "Bolívar Venezolano",
     "locale": "es"
   },
   {
@@ -1732,7 +1732,7 @@
     "name": "Uruguay",
     "alias": null,
     "abbr": null,
-    "full_name": "The Oriental Republic of Uruguay",
+    "full_name": "República Oriental del Uruguay",
     "currency_name": "Peso Uruguayo",
     "locale": "es"
   },
@@ -1741,17 +1741,17 @@
     "name": "Ecuador",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Ecuador",
-    "currency_name": "US Dollar",
+    "full_name": "República del Ecuador",
+    "currency_name": "Dólar Estadounidense",
     "locale": "es"
   },
   {
     "country_code": "ag",
-    "name": "Antigua and Barbuda",
+    "name": "Antigua y Barbuda",
     "alias": null,
     "abbr": null,
-    "full_name": "Antigua and Barbuda",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "Antigua y Barbuda",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
@@ -1760,7 +1760,7 @@
     "alias": null,
     "abbr": null,
     "full_name": "Aruba",
-    "currency_name": "Aruban Florin",
+    "currency_name": "Florín Arubeño",
     "locale": "es"
   },
   {
@@ -1768,8 +1768,8 @@
     "name": "Bahamas",
     "alias": null,
     "abbr": null,
-    "full_name": "The Commonwealth of The Bahamas",
-    "currency_name": "Bahamian Dollar",
+    "full_name": " Commonwealth de Las Bahamas",
+    "currency_name": "Dólar Bahameño",
     "locale": "es"
   },
   {
@@ -1778,34 +1778,34 @@
     "alias": null,
     "abbr": null,
     "full_name": "Barbados",
-    "currency_name": "Barbados Dollar",
+    "currency_name": "Dólar Barbadeño",
     "locale": "es"
   },
   {
     "country_code": "ky",
-    "name": "Cayman Is",
+    "name": "Islas Caimán",
     "alias": null,
     "abbr": null,
-    "full_name": "Cayman Islands",
-    "currency_name": "Cayman Islands Dollar",
+    "full_name": "Islas Caimán",
+    "currency_name": "Dólar de las Islas Caimán",
     "locale": "es"
   },
   {
     "country_code": "gd",
-    "name": "Grenada",
+    "name": "Granada",
     "alias": null,
     "abbr": null,
-    "full_name": "Grenada",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "Granada",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
     "country_code": "ht",
-    "name": "Haiti",
+    "name": "Haití",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Haiti",
-    "currency_name": "Haitian gourde",
+    "full_name": "República de Haití",
+    "currency_name": "Gourde Haitiano",
     "locale": "es"
   },
   {
@@ -1814,15 +1814,15 @@
     "alias": null,
     "abbr": null,
     "full_name": "Jamaica",
-    "currency_name": "Jamaican Dollar",
+    "currency_name": "Dólar Jamaiquino",
     "locale": "es"
   },
   {
     "country_code": "mq",
-    "name": "Martinique",
+    "name": "Martinica",
     "alias": null,
     "abbr": null,
-    "full_name": "Martinique",
+    "full_name": "Martinica",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1832,33 +1832,33 @@
     "alias": null,
     "abbr": null,
     "full_name": "Montserrat",
-    "currency_name": "East Caribbean Dollar",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
     "country_code": "tt",
-    "name": "Trinidad and Tobago",
+    "name": "Trinidad y Tobago",
     "alias": null,
     "abbr": null,
-    "full_name": "Republic of Trinidad and Tobago",
-    "currency_name": "Trinidad and Tobago Dollar",
+    "full_name": "República de Trinidad y Tobago",
+    "currency_name": "Dólar de Trinidad y Tobago",
     "locale": "es"
   },
   {
     "country_code": "kn",
-    "name": "St Kitts-Nevis",
+    "name": "San Cristóbal y Nieves",
     "alias": null,
     "abbr": null,
-    "full_name": "The Federation of Saint Kitts and Nevis",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "La Federación de San Cristóbal y Nieves",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
     "country_code": "pm",
-    "name": "St.Pierre and Miquelon",
+    "name": "San Pedro y Miquelón",
     "alias": null,
     "abbr": null,
-    "full_name": "The Islands of st pierre and miquelon",
+    "full_name": "Las Islas de San Pedro y Miquelón",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -1867,17 +1867,17 @@
     "name": "Argentina",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Argentina",
-    "currency_name": "Argentine Peso",
+    "full_name": "República de Argentina",
+    "currency_name": "Peso Argentino",
     "locale": "es"
   },
   {
     "country_code": "bz",
-    "name": "Belize",
+    "name": "Belice",
     "alias": null,
     "abbr": null,
-    "full_name": "Belize",
-    "currency_name": "Belize Dollar",
+    "full_name": "Belice",
+    "currency_name": "Dólar Beliceño",
     "locale": "es"
   },
   {
@@ -1885,115 +1885,115 @@
     "name": "Bolivia",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Bolivia",
+    "full_name": "República de Bolivia",
     "currency_name": "Boliviano",
     "locale": "es"
   },
   {
     "country_code": "br",
-    "name": "Brazil",
+    "name": "Brasil",
     "alias": null,
     "abbr": null,
-    "full_name": "The Federative Republic of Brazil",
-    "currency_name": "Brazilian Real",
+    "full_name": "República Federativa de Brasil",
+    "currency_name": "Real Brasileño",
     "locale": "es"
   },
   {
     "country_code": "as",
-    "name": "American Samoa",
+    "name": "Samoa Americana",
     "alias": null,
     "abbr": null,
-    "full_name": "American Samoa",
-    "currency_name": "US Dollar",
+    "full_name": "Samoa Americana",
+    "currency_name": "Dólar Estadounidense",
     "locale": "es"
   },
   {
     "country_code": "ax",
-    "name": "Aland Islands",
+    "name": "Islas Åland",
     "alias": null,
     "abbr": null,
-    "full_name": "Aland Island,Ahvenanmaa",
+    "full_name": "Islas Åland, Ahvenanmaa",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "bl",
-    "name": "Saint Barth\u00e9lemy",
+    "name": "San Bartolomé",
     "alias": null,
     "abbr": null,
-    "full_name": "Collectivit\u00e9de Saint-Barth\u00e9lemy",
+    "full_name": "Colectividad de San Bartolomé",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "bq",
-    "name": "Bonaire, Sint Eustatius and Saba",
+    "name": "Bonaire, Sint Eustatius y Saba",
     "alias": null,
     "abbr": null,
-    "full_name": "Bonaire, Sint Eustatius and Saba",
-    "currency_name": "US Dollar",
+    "full_name": "Bonaire, Sint Eustatius y Saba",
+    "currency_name": "Dólar Estadounidense",
     "locale": "es"
   },
   {
     "country_code": "bv",
-    "name": "Bouvet Island",
+    "name": "Isla Bouvet",
     "alias": null,
     "abbr": null,
-    "full_name": "Bouvet Island",
-    "currency_name": "Norwegian krone",
+    "full_name": "Isla Bouvet",
+    "currency_name": "Corona Noruega",
     "locale": "es"
   },
   {
     "country_code": "cc",
-    "name": "Cocos (Keeling) Islands",
+    "name": "Islas Cocos (Keeling)",
     "alias": null,
     "abbr": null,
-    "full_name": "Cocos (Keeling) Islands",
-    "currency_name": "Australian dollar",
+    "full_name": "Islas Cocos (Keeling)",
+    "currency_name": "Dólar Australiano",
     "locale": "es"
   },
   {
     "country_code": "cw",
-    "name": "Cura\u00e7ao",
+    "name": "Curaçao",
     "alias": null,
     "abbr": null,
-    "full_name": "Cura\u00e7ao",
-    "currency_name": "Netherlands Antillean Guilder",
+    "full_name": "Curaçao",
+    "currency_name": "Guilder Antillano Neerlandés",
     "locale": "es"
   },
   {
     "country_code": "cx",
-    "name": "Christmas Island",
+    "name": "Isla de Navidad",
     "alias": null,
     "abbr": null,
-    "full_name": "Christmas Island",
-    "currency_name": "Australian dollar",
+    "full_name": "Isla de Navidad",
+    "currency_name": "Dólar Australiano",
     "locale": "es"
   },
   {
     "country_code": "fk",
-    "name": "Falkland Islands (Malvinas)",
+    "name": "Islas Malvinas (Falkland Islands)",
     "alias": null,
     "abbr": null,
-    "full_name": "Falkland Islands (Malvinas)",
-    "currency_name": "Falkland Islands Pound",
+    "full_name": "Islas Malvinas (Falkland Islands)",
+    "currency_name": "Libra de las Islas Malvinas",
     "locale": "es"
   },
   {
     "country_code": "fo",
-    "name": "Faroe Islands",
+    "name": "Islas Faroe",
     "alias": null,
     "abbr": null,
-    "full_name": "Faroe Islands",
-    "currency_name": "Danish Krone",
+    "full_name": "Islas Faroe",
+    "currency_name": "Corona Danesa",
     "locale": "es"
   },
   {
     "country_code": "gf",
-    "name": "French Guiana",
+    "name": "Guayana Francesa",
     "alias": null,
     "abbr": null,
-    "full_name": "French Guiana",
+    "full_name": "Guayana Francesa",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -2002,17 +2002,17 @@
     "name": "Guernsey",
     "alias": null,
     "abbr": null,
-    "full_name": "Bailiwick of Guernsey",
-    "currency_name": "Pound Sterling",
+    "full_name": "Bailía de Guernsey",
+    "currency_name": "Libra Esterlina",
     "locale": "es"
   },
   {
     "country_code": "gs",
-    "name": "South Georgia and The South Sandwich Islands",
+    "name": "Georgia del Sur y las Islas Sandwich del Sur",
     "alias": null,
     "abbr": null,
-    "full_name": "South Georgia and The South Sandwich Islands",
-    "currency_name": "Pound sterling",
+    "full_name": "Georgia del Sur y las Islas Sandwich del Sur",
+    "currency_name": "Libra Esterlina",
     "locale": "es"
   },
   {
@@ -2020,35 +2020,35 @@
     "name": "Guam",
     "alias": null,
     "abbr": null,
-    "full_name": "The Territory of Guahan,Guam",
-    "currency_name": "US Dollar",
+    "full_name": " Territorio de Guahan, Guam",
+    "currency_name": "Dólar Estadounidense",
     "locale": "es"
   },
   {
     "country_code": "hm",
-    "name": "Heard Island and McDonald Islands",
+    "name": "Islas Heard y McDonald",
     "alias": null,
     "abbr": null,
-    "full_name": "Heard Island and McDonald Islands",
-    "currency_name": "Australian Dollar",
+    "full_name": "Islas Heard y McDonald",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
     "country_code": "im",
-    "name": "Isle Of Man",
+    "name": "Isla de Man",
     "alias": null,
     "abbr": null,
-    "full_name": "Isle Of Man",
-    "currency_name": "Pound Sterling",
+    "full_name": "Isla de Man",
+    "currency_name": "Libra esterlina",
     "locale": "es"
   },
   {
     "country_code": "io",
-    "name": "British Indian Ocean Territory",
+    "name": "Territorio Británico del Océano Índico",
     "alias": null,
     "abbr": null,
-    "full_name": "British Indian Ocean Territory",
-    "currency_name": "Pound Sterling",
+    "full_name": "Territorio Británico del Océano Índico",
+    "currency_name": "Libra esterlina",
     "locale": "es"
   },
   {
@@ -2057,43 +2057,43 @@
     "alias": null,
     "abbr": null,
     "full_name": "Jersey",
-    "currency_name": "Pound Sterling",
+    "currency_name": "Libra esterlina",
     "locale": "es"
   },
   {
     "country_code": "lc",
-    "name": "Saint Lucia",
+    "name": "Santa Lucía",
     "alias": null,
     "abbr": null,
-    "full_name": "Saint Lucia , St. Lucia",
-    "currency_name": "East Caribbean Dollar",
+    "full_name": "Santa Lucía, St. Lucía",
+    "currency_name": "Dólar del Caribe Oriental",
     "locale": "es"
   },
   {
     "country_code": "mf",
-    "name": "Saint Martin",
+    "name": "San Martín",
     "alias": null,
     "abbr": null,
-    "full_name": "Saint Martin",
+    "full_name": "San Martín",
     "currency_name": "Euro",
     "locale": "es"
   },
   {
     "country_code": "mp",
-    "name": "Northern Mariana Islands",
+    "name": "Islas Marianas del Norte",
     "alias": null,
     "abbr": null,
-    "full_name": "Northern Mariana Islands",
-    "currency_name": "US Dollar",
+    "full_name": "Islas Marianas del Norte",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "nf",
-    "name": "Norfolk Island",
+    "name": "Isla Norfolk",
     "alias": null,
     "abbr": null,
-    "full_name": "Norfolk Island",
-    "currency_name": "Australian Dollar",
+    "full_name": "Isla Norfolk",
+    "currency_name": "Dólar australiano",
     "locale": "es"
   },
   {
@@ -2102,34 +2102,34 @@
     "alias": null,
     "abbr": null,
     "full_name": "Niue",
-    "currency_name": "New Zealand Dollar",
+    "currency_name": "Dólar neozelandés",
     "locale": "es"
   },
   {
     "country_code": "pn",
-    "name": "Pitcairn Islands",
+    "name": "Islas Pitcairn",
     "alias": null,
     "abbr": null,
-    "full_name": "Pitcairn Islands",
-    "currency_name": "New Zealand Dollar",
+    "full_name": "Islas Pitcairn",
+    "currency_name": "Dólar neozelandés",
     "locale": "es"
   },
   {
     "country_code": "sh",
-    "name": "Saint Helena",
+    "name": "Santa Elena",
     "alias": null,
     "abbr": null,
-    "full_name": "Saint Helena",
-    "currency_name": "Saint Helena pound",
+    "full_name": "Santa Elena",
+    "currency_name": "Libra de Santa Elena",
     "locale": "es"
   },
   {
     "country_code": "sj",
-    "name": "Svalbard and Jan Mayen Islands",
+    "name": "Islas Svalbard y Jan Mayen",
     "alias": null,
     "abbr": null,
-    "full_name": "Svalbard and Jan Mayen Islands",
-    "currency_name": "Norwegian krone",
+    "full_name": "Islas Svalbard y Jan Mayen",
+    "currency_name": "Corona noruega",
     "locale": "es"
   },
   {
@@ -2138,24 +2138,24 @@
     "alias": null,
     "abbr": null,
     "full_name": "Sint Maarten",
-    "currency_name": "Netherlands Antillean Guilder",
+    "currency_name": "Florín antillano neerlandés",
     "locale": "es"
   },
   {
     "country_code": "tc",
-    "name": "Turks and Caicos Islands",
+    "name": "Islas Turcas y Caicos",
     "alias": null,
     "abbr": null,
-    "full_name": "Turks and Caicos Islands",
-    "currency_name": "US Dollar",
+    "full_name": "Islas Turcas y Caicos",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "tf",
-    "name": "French Southern Territories",
+    "name": "Territorios del Sur de Francia",
     "alias": null,
     "abbr": null,
-    "full_name": "French Southern Territories",
+    "full_name": "Territorios del Sur de Francia",
     "currency_name": "Euro",
     "locale": "es"
   },
@@ -2165,43 +2165,43 @@
     "alias": null,
     "abbr": null,
     "full_name": "Tokelau",
-    "currency_name": "New Zealand Dollar",
+    "currency_name": "Dólar neozelandés",
     "locale": "es"
   },
   {
     "country_code": "um",
-    "name": "United States Minor Outlying Islands",
+    "name": "Islas Menores de los Estados Unidos",
     "alias": null,
     "abbr": null,
-    "full_name": "United States Minor Outlying Islands",
-    "currency_name": "US Dollar",
+    "full_name": "Islas Menores de los Estados Unidos",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "vg",
-    "name": "The British Virgin Islands",
+    "name": "Islas Vírgenes Británicas",
     "alias": null,
     "abbr": null,
-    "full_name": "The British Virgin Islands",
-    "currency_name": "US Dollar",
+    "full_name": "Islas Vírgenes Británicas",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "vi",
-    "name": "The United States Virgin Islands",
+    "name": "Islas Vírgenes de los Estados Unidos",
     "alias": null,
     "abbr": null,
-    "full_name": "The United States Virgin Islands",
-    "currency_name": "US Dollar",
+    "full_name": "Islas Vírgenes de los Estados Unidos",
+    "currency_name": "Dólar estadounidense",
     "locale": "es"
   },
   {
     "country_code": "wf",
-    "name": "Wallis and Futuna Islands",
+    "name": "Islas Wallis y Futuna",
     "alias": null,
     "abbr": null,
-    "full_name": "Wallis and Futuna Islands",
-    "currency_name": "CFP franc (franc Pacifique)",
+    "full_name": "Islas Wallis y Futuna",
+    "currency_name": "Franco CFP (franco del Pacífico)",
     "locale": "es"
   },
   {
@@ -2209,7 +2209,7 @@
     "name": "Kosovo",
     "alias": null,
     "abbr": null,
-    "full_name": "The Republic of Kosovo",
+    "full_name": "República de Kosovo",
     "currency_name": "Euro",
     "locale": "es"
   }
