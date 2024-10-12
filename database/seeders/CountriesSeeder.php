@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use App\Models\Continent;
+use DazzaDev\Geography\Models\Continent;
 use DazzaDev\Geography\Models\Country;
 use DazzaDev\Geography\Models\CountryLocale;
 use Illuminate\Database\Seeder;
